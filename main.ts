@@ -4,6 +4,7 @@
  * Created on: Sep 2023
  * This program Turns LED on and off
 */
+
 // On start
 basic.clearScreen()
 basic.showIcon(IconNames.Happy)
